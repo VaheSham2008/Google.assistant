@@ -1,0 +1,70 @@
+*{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+ul{
+
+	width: 100%;
+	background: lightblue;
+	text-align: center;
+	padding:0;
+}
+li{
+	display: inline-block;
+	background: gray;
+	font-size: 20px;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	transition: ease-out 0.2s ;
+}
+li:hover{
+	background: red;
+}
+a{
+	text-decoration: none;
+	color: white;
+}	
+#first{
+	background-image: url("Want a google assistant app_.png");
+	height: 730px;
+	width: 100%;
+	background-size: 100%;
+	padding: 20% 30%;
+	box-sizing: border-box;
+	font-size: 20px;
+}
+#second{
+	background-image: url("Want a google assistant app_.png");
+	height: 730px;
+	width: 100%;
+	background-size: 100%;
+	padding: 20% 30%;
+	box-sizing: border-box;
+	font-size: 20px;
+}
+#third{
+	background-image: url("Want a google assistant app_.png");
+	height: 730px;
+	width: 100%;
+	background-size: 100%;
+	padding: 20% 30%;
+	box-sizing: border-box;
+	font-size: 20px;
+}
+#download{
+	background: red;
+	padding: 20px;
+	border-radius: 100%;
+	margin: 0 25%;
+	color: yellow;
+}
+#Questions{
+	background-image: url('Google Assistant.png');
+	background-repeat: no-repeat;	
+	background-size: 35%;
+	background-position: bottom center;
+}
+#Questions p{
+	margin-left: 20px;
+	font-size: 20px;
+}
