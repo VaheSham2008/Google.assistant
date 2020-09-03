@@ -29,27 +29,30 @@ a{
 	height: 730px;
 	width: 100%;
 	background-size: 100%;
-	padding: 20% 30%;
-	box-sizing: border-box;
-	font-size: 20px;
+    	padding: 20% 10%;
+    	box-sizing: border-box;
+    	font-size: 20px;
+    	text-align: center;
 }
 #second{
 	background-image: url("Want a google assistant app_.png");
 	height: 730px;
 	width: 100%;
 	background-size: 100%;
-	padding: 20% 30%;
-	box-sizing: border-box;
-	font-size: 20px;
+    	padding: 20% 10%;
+    	box-sizing: border-box;
+    	font-size: 20px;
+    	text-align: center;
 }
 #third{
 	background-image: url("Want a google assistant app_.png");
 	height: 730px;
 	width: 100%;
 	background-size: 100%;
-	padding: 20% 30%;
-	box-sizing: border-box;
-	font-size: 20px;
+	padding: 20% 10%;
+   	box-sizing: border-box;
+    	font-size: 20px;
+    	text-align: center;
 }
 #download{
 	background: red;
