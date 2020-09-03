@@ -53,8 +53,6 @@ a{
     	background-repeat: no-repeat;
     	background-position: center;
 	padding: 30% 10%;
-	display: block;
-	width: 100px;
    	box-sizing: border-box;
     	font-size: 20px;
     	text-align: center;
@@ -63,8 +61,10 @@ a{
 	background: red;
 	padding: 20px;
 	border-radius: 100%;
-	margin: 0 25%;
+	margin: 30px 25%;
 	color: yellow;
+	display: inline-block;
+	width: 100px;
 }
 #Questions{
 	background-image: url('Google Assistant.png');
